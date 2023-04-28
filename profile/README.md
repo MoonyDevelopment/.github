@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, We are Moony Development</h1>
-<h3 align="center">Moony Development, organization of the future</h3>
+<h1 align="center">Hi 👋, We are Null Development</h1>
+<h3 align="center">Null Development, organization of the future</h3>
 
 - 🔭 We are currently working on **many projects!**
 
@@ -9,6 +9,6 @@
 
 - 💬 Ask us about **anything**
 
-- 📫 How to reach us **through our discord! https://dsc.gg/lunuladev**
+- 📫 How to reach us **through our discord! https://dsc.gg/null-dev**
 
-- ⚡ Fun fact **We own a host! https://lunarhost.space**
+- ⚡ Fun fact **We own a host! https://hostly.cloud**
